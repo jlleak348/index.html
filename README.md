@@ -4,8 +4,10 @@
 
 <a href="mailto:jlleak348@my.pittcc.edu">Email Link</a>
 
-<h2>Objective
-    Education
-    Employee History 
-</h2>
+<h2>Objective</h2>
+
+<h2>Education</h2>
+
+<h2>Employee History</h2>
+
 
