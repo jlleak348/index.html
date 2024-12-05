@@ -1,8 +1,6 @@
 # index.html
 
-<h1>Joshua Leak</h1>
-
-<a href="mailto:jlleak348@my.pittcc.edu">Email Link</a>
+<h1>Joshua Leak <br/><a href="mailto:jlleak348@my.pittcc.edu">Email Link</a></h1>
 
 <h2>Objective</h2>
 
