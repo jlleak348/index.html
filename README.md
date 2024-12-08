@@ -6,7 +6,8 @@
 <h1>Joshua Leak <br/><a href="https://www.pittcc.edu">jlleak348@my.pittcc.edu</a></h1>
 
 <h2>Objective
-
+  
+Hello! I’m Joshua Leak, a dedicated Cybersecurity student at Pitt Community College, where I am developing the skills to protect digital systems and defend against cyber threats. 
 
 </h2>
 
