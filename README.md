@@ -10,7 +10,8 @@
 </body>
 </html>
 
-<h1>Joshua Leak <br/><a href="https://www.pittcc.edu">jlleak348@my.pittcc.edu</a></h1>
+<h1>Joshua Leak <br/><a href="https://www.pittcc.edu">jlleak348@my.pittcc.edu</a>   
+</h1>
 
 <h2>Objective
   
