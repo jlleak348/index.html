@@ -1,7 +1,14 @@
-<DOCTYPE HTML>
+<!DOCTYPE html>
 <html lang="en">
-
-<html></html>
+<head>
+<meta charset="UTF-8">
+<title>Image</title>
+</head>
+<body>
+    <img src="myavatar.png"
+      width="300px" Height="200px">
+</body>
+</html>
 
 <h1>Joshua Leak <br/><a href="https://www.pittcc.edu">jlleak348@my.pittcc.edu</a></h1>
 
